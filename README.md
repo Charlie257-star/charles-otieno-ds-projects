@@ -1,1 +1,3 @@
-# charles-otieno-ds-projects
+# 💼 Texas Department Salary Prediction
+
+This project aims to predict employee salaries in Texas using open public data...
